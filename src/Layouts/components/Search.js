@@ -76,7 +76,10 @@ const Search = ({ history }) => {
 
 
 
+
+
 		
+
 			className={ classes.root }
 			filterOptions={ (opts) => opts }
 			freeSolo={ true }
