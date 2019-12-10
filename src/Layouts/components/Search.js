@@ -72,14 +72,6 @@ const Search = ({ history }) => {
 
 	return (
 		<Autocomplete
-
-
-
-
-
-
-		
-
 			className={ classes.root }
 			filterOptions={ (opts) => opts }
 			freeSolo={ true }
